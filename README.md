@@ -49,7 +49,7 @@ The course extends the fundamental tools in "Machine Learning Foundations" to po
 - week 2 : Dual Support Vector Machine
 - week 3 : Kernel Support Vector Machine
 - week 4 : Soft-Margin Support Vector Machine
-- Programming assignment-5 : [Support Vection Machine](https://github.com/Chang-Chia-Chi/Machine-Learning-Foundations-Techniques/tree/main/Assignment-5)
+- Programming assignment-5 : [Support Vector Machine](https://github.com/Chang-Chia-Chi/Machine-Learning-Foundations-Techniques/tree/main/Assignment-5)
 
 ### Week 5 ~ week 8
 - week 5 : Kernel Logistic Regression
