@@ -63,7 +63,7 @@ The course extends the fundamental tools in "Machine Learning Foundations" to po
 - week 10 : Random Forest
 - week 11 : Gradient Boosted Decision Tree
 - week 12 : Neural Network
-- Programming assignment-7 : in progress
+- Programming assignment-7 : [Decision Tree & Random Forest](https://github.com/Chang-Chia-Chi/Machine-Learning-Foundations-Techniques/tree/main/Assignment-7)
  
 ### Week 13 ~ week 16
 - week 13 : Deep Learning
