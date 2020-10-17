@@ -5,7 +5,7 @@ Machine learning is the study that allows computers to adaptively improve their 
 Certification : 
 - [Machine learning foundations part I](https://www.coursera.org/account/accomplishments/verify/RHCXGL2C298Z)
 - [Machine learning foundations part II](https://www.coursera.org/account/accomplishments/verify/DMPSPW2VTTRA)
-- Machine learning Techniques (in progress)
+- [Machine learning Techniques](https://www.coursera.org/account/accomplishments/verify/VSKUJ3AKB4CQ)
 
 ## Machine learning foundations
 Machine learning is the study that allows computers to adaptively improve their performance with experience accumulated from the data observed. Our two sister courses teach the most fundamental algorithmic, theoretical and practical tools that any user of machine learning needs to know. 
@@ -70,7 +70,7 @@ The course extends the fundamental tools in "Machine Learning Foundations" to po
 - week 14 : Radial Basis Function Network
 - week 15 : Matrix Factorization
 - week 16 : Finale
-- Programming assignment-8 : in progress
+- Programming assignment-8 : [Backpropagation, K-Nearest-Neighbor & K-Means](https://github.com/Chang-Chia-Chi/Machine-Learning-Foundations-Techniques/tree/main/Assignment-8)
 
 ## Course Links and Reference: 
 1. [Machine learning foundations part I](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
